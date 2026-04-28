@@ -1,0 +1,94 @@
+<template>
+  <!-- ═════════════════════════════════════════════════════════════════
+       Client onboarding step 5
+       Source: aidi_dashboard.html
+       Layout: client
+       DO NOT modify HTML/CSS/JS structurally — handlers are defined in
+       the zone's JS bundle (loaded by the layout) and bound by id/class.
+       ═════════════════════════════════════════════════════════════════ -->
+  <div class="aidi-route-wrapper">
+    <div id="page-onboard-5" class="page onboard-page">
+      <div class="onboard-nav">
+        <div class="onboard-logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25675.8 23448.1" width="26" height="24" style="display:block;">
+      <defs></defs>
+      <g>
+        <path class="flo0" d="M23266.6 14962.5c7.4,9.7 17.8,11.9 21.6,29.5l466.9 1086.6c251.8,922.3 129.4,1643.7 -247.7,2482.8l-998.8 1178.4c-246.2,185.5 -509.8,353.6 -796.5,463.1 -1150,439 -2154.1,347.4 -3203.2,-293.6l-464 -365.1c-26.8,-151.2 -762.4,-673.1 -882.4,-768.7 -1008.7,-803.6 -2339.6,-1916.5 -3326.1,-2668.3l-2116.4 -1701.8c-863.1,-678 -2253.6,-1912.9 -3191.5,-2383 -545.5,-273.4 -1354.2,-522.4 -1987.2,-571 -265.2,-20.3 -603,-0.7 -876.9,-2.3 -1194,-6.9 -2484.2,562.2 -3398.3,1259.8 -1177.7,898.8 -1773.4,2029.9 -2130.6,3443.9 -315.9,1251 -66.6,3148.9 610.9,4262.5 458.3,753.3 879,1293.4 1602,1834.4 2691.1,2013.6 6325,1431.2 8302.2,-1309 473.8,-656.6 888.8,-1600 970.6,-2453.8 -131.5,-113.5 95,-426.5 -186.2,-776 -161.4,-200.5 -256.7,-312.4 -570.7,-394 -380.7,-98.9 -892.7,104.4 -1023.7,607.4 -31.5,120.8 16,276.6 -40.1,130.8 -74.1,88.8 -95.1,327.9 -118.6,428 -40.3,172.3 -74.9,291.6 -126.8,445.8 -1135.2,3371.5 -5999.1,3615.3 -7403.4,81.1 -1005,-2529.4 699.1,-5139.3 2930.2,-5585.2 1586.9,-317.2 2581.3,157.2 3490,883.1 1705.7,1362.6 3389.2,2698.8 5084.7,4078.8l1885.4 1512.7c113.1,95.5 199.5,170.7 312.2,260.5 1099,875.3 1730.4,1607.4 3173.3,1981.2 1688.2,437.3 3294.9,3.6 4517.5,-905.8l609.3 -536.1c119.3,-118.1 160.5,-190.9 267.2,-305.6 264.9,-284.7 513.3,-672.9 690.4,-1027.8 837.4,-1679 737.9,-3805.9 -272.3,-5480.3l-1580.9 -2428.2c-82.9,-123.7 -143.5,-235.1 -220.9,-351.8 -305,-459.3 -597.9,-917.5 -909.2,-1381.7 -159.7,-238.1 -288.5,-452.6 -450.4,-695l-4741.2 -7247.8c-330,-374.6 -432.1,-510.9 -875.7,-842.4l-711 -434.5c-272,-136.9 -518.7,-232.2 -827.1,-318.3 -998.4,-278.7 -2060.2,-235.3 -2983.8,71.1 -839.4,278.6 -1484.1,764.8 -2066.7,1369.7 -326.2,338.6 -888.1,1282.6 -1151.3,1712.3l-3317.8 5273c-142.9,241.7 -324.3,435.1 -344.3,791 -46.1,819 1120.9,1523.4 1838.3,397.5l1312.8 -2085.3c151.2,-235.8 299.5,-466.4 451.2,-694.2l1334.2 -2102.2c371,-621.2 1148.7,-1925.5 1681,-2328 99.4,-75.2 215.7,-173.4 331.9,-240.8 489.2,-283.6 1029.3,-506.2 1843.4,-444 988.5,75.6 1636.1,577.8 2124.6,1311.7l5185.9 7986.7c81.5,133.7 145,211.7 225.2,347.5 149.5,253.3 300.4,450.8 447.8,697.7l1754.8 2672.5c68.9,65.2 -6,35.2 76.2,40.4z"/>
+        <path class="flo1" d="M18044.9 19544.1l464 365.1c1049.1,640.9 2053.2,732.6 3203.2,293.6 286.7,-109.5 550.3,-277.6 796.5,-463.1l998.8 -1178.4c377.2,-839.1 499.6,-1560.5 247.7,-2482.8l-466.9 -1086.6c-3.9,-17.6 -14.2,-19.8 -21.6,-29.5 37.8,239.3 289.8,559.4 441.8,1161.6 277.9,1100.8 51.2,2140.9 -662.1,3008.8 -941.4,1145.5 -2482.5,1652.3 -3969.2,1011.5 -239.7,-103.3 -321.6,-130.4 -523.3,-278.5 -130,-95.5 -381.3,-297.1 -508.9,-321.9z"/>
+        <path class="flo1" d="M9800.6 18055c56,145.8 8.6,-9.9 40.1,-130.8 131,-503 643.1,-706.3 1023.7,-607.4 314,81.6 409.3,193.5 570.7,394 281.2,349.5 54.7,662.6 186.2,776 0,-469.5 22,-733 -374.5,-1050.1 -69,-55.2 -228.1,-141.8 -327.9,-168.5 -582,-155.2 -1173.2,337.8 -1118.3,786.7z"/>
+      </g>
+    </svg></div>
+        <span class="onboard-exit" onclick="showPage('page-signin')">✕ Exit</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-steps">
+          <div class="progress-step done"></div><div class="progress-step done"></div>
+          <div class="progress-step done"></div><div class="progress-step done"></div>
+          <div class="progress-step active"></div><div class="progress-step"></div><div class="progress-step"></div>
+        </div>
+        <div class="progress-label">Step 5 of 7 — Investment Profile</div>
+      </div>
+      <div class="onboard-card">
+        <div class="onboard-step-label">Your Preferences</div>
+        <h2 class="onboard-title">Shape your investment profile</h2>
+        <p class="onboard-sub">Aidi uses this to personalise AI recommendations and surface relevant opportunities. You can update these at any time.</p>
+        <div class="form-grid">
+          <div class="form-group full">
+            <label class="form-label">Primary investment goal</label>
+            <select class="form-input">
+              <option>Grow long-term wealth</option>
+              <option>Preserve and protect capital</option>
+              <option>Generate regular income</option>
+              <option>Diversify existing portfolio</option>
+              <option>Build a family investment vehicle</option>
+            </select>
+          </div>
+          <div class="form-group full range-group">
+            <label class="form-label">Risk tolerance — <span id="risk-label">Moderate</span></label>
+            <input type="range" class="range-slider" min="1" max="5" value="3" oninput="updateRisk(this)">
+            <div class="range-labels"><span>Conservative</span><span>Aggressive</span></div>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Investment time horizon</label>
+            <select class="form-input">
+              <option>1–2 years</option>
+              <option>3–5 years</option>
+              <option selected>5–10 years</option>
+              <option>10+ years</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Liquidity requirement</label>
+            <select class="form-input">
+              <option>High — need access within 30 days</option>
+              <option selected>Medium — can lock up 6–12 months</option>
+              <option>Low — comfortable with 1–3 year lock-up</option>
+            </select>
+          </div>
+        </div>
+        <div style="margin-top:8px;">
+          <div class="form-label" style="margin-bottom:12px;">Which asset classes interest you?</div>
+          <div style="display:flex;flex-wrap:wrap;gap:8px;" id="asset-chips">
+            <span class="asset-chip selected" onclick="toggleChip(this)">Equities</span>
+            <span class="asset-chip selected" onclick="toggleChip(this)">Real Estate</span>
+            <span class="asset-chip" onclick="toggleChip(this)">Crypto</span>
+            <span class="asset-chip selected" onclick="toggleChip(this)">Gold & Metals</span>
+            <span class="asset-chip" onclick="toggleChip(this)">T-Bills & Treasury</span>
+            <span class="asset-chip" onclick="toggleChip(this)">Private Markets</span>
+          </div>
+        </div>
+    
+        <div class="onboard-footer">
+          <button class="btn-back" onclick="showPage('page-onboard-4')">← Back</button>
+          <button class="btn-next" onclick="showPage('page-onboard-6')">
+            Continue
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="white" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script setup>
+definePageMeta({ layout: 'client' })
+</script>

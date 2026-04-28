@@ -1,0 +1,52 @@
+/* ═══════════════════════════════════════════════════════════════════
+   [merged build] V2 LANDING TOKEN & BODY OVERRIDES
+   The dashboard/internal :root blocks globally win for tokens like --r
+   and --sh. These rules restore v2's original values, but scoped to
+   its wrapper, so all three designs render exactly as their authors
+   designed them.
+   ═══════════════════════════════════════════════════════════════════ */
+.v2-app {
+  --r:         20px;
+  --r-lg:      32px;
+  --sh:        0 2px 24px rgba(12,26,46,.07);
+  --sh-lg:     0 8px 48px rgba(12,26,46,.12);
+  --sh-xl:     0 24px 80px rgba(12,26,46,.16);
+}
+/* v2 body styling — scoped */
+.v2-app {
+  font-family:'Instrument Sans', sans-serif;
+  background:var(--white);
+  color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+  zoom: 92%;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   [Nuxt conversion] ZONE WRAPPER VISIBILITY
+
+   In the original merged HTML, these three wrappers coexisted in one
+   DOM and the visible zone was toggled via a body.zone-* class set by
+   the top-level showTopLevel() router. The original rules were:
+
+     #internal-app { display: none; }
+     #client-app   { display: none; }
+     #v2-app       { display: block; }
+     body.zone-role #internal-app { display: block; }
+     body.zone-client #client-app { display: block; }
+     ... etc.
+
+   In Nuxt each zone is its own route/layout — at most ONE wrapper is
+   ever in the DOM at a time. Nothing adds the body.zone-* class any
+   more, so the old rules left #internal-app and #client-app
+   permanently hidden on their own routes, even though those layouts
+   were the ONLY content being rendered.
+
+   Replacement rule: each wrapper is simply always block. Pages and
+   screens inside them still respect the design CSS's own
+   .page { display:none } / .page.active { display:block } rules —
+   layouts/*.vue adds .active on mount and on route change, matching
+   the behavior the old JS used to provide.
+   ═══════════════════════════════════════════════════════════════════ */
+#v2-app,
+#internal-app,
+#client-app { display: block; }

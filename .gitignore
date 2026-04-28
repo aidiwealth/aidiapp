@@ -1,0 +1,17 @@
+# Nuxt build
+.nuxt
+.output
+dist
+
+# Node
+node_modules
+*.log
+.npm
+.pnpm-debug.log*
+.yarn
+.DS_Store
+
+# Env
+.env
+.env.*
+!.env.example

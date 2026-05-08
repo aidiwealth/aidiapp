@@ -101,7 +101,7 @@
             <div class="mob-menu-link" onclick="navigate('careers');closeMobMenu()">Careers</div>
           </div>
           <div class="mob-menu-actions">
-            <button class="btn btn-dark" data-cal-link="joinaidi/30min" data-cal-namespace="30min" data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'>Book a demo</button>
+            <button class="btn btn-dark" data-cal-link="joinaidi/30min" data-cal-namespace="30min" data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'>Book a demo <span class="arrow-icon"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8h10M9 4l4 4-4 4"></path></svg></span></button>
           </div>
         </div>
 

@@ -101,7 +101,6 @@
             <div class="mob-menu-link" onclick="navigate('careers');closeMobMenu()">Careers</div>
           </div>
           <div class="mob-menu-actions">
-            <button class="btn btn-outline" onclick="closeMobMenu(); showTopLevel('role')">Log in</button>
             <button class="btn btn-dark" data-cal-link="joinaidi/30min" data-cal-namespace="30min" data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'>Book a demo</button>
           </div>
         </div>

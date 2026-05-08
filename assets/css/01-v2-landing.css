@@ -87,6 +87,24 @@ a { text-decoration:none; color:inherit; }
   max-width:520px;
 }
 
+.strip-parent-link {
+    align-items: center;
+    color: var(--ink);
+    display: inline-flex;
+    font-family: 'Instrument Sans', sans-serif;
+    font-size: .85rem;
+    font-weight: 300;
+    gap: 8px;
+    text-decoration: none;
+    transition: color .3s ease;
+}
+.strip-parent-link svg {
+    height: 14px;
+    margin-top: 2px;
+    transition: transform .4s ease;
+    width: 14px;
+}
+
 .eyebrow {
   font-family:'Instrument Sans', sans-serif;
   font-size:.72rem;

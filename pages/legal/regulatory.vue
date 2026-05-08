@@ -121,10 +121,11 @@
                     <span class="footer-col-title">Company</span>
                     <ul class="footer-links">
                       <li><a onclick="navigate('about')">About Aidi</a></li>
+                      <li><a class="strip-parent-link" href="https://aidiventures.com" target="_blank" rel="noopener"> Aidi Ventures <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="3" y1="13" x2="13" y2="3"></line><polyline points="6 3 13 3 13 10"></polyline></svg></a></li>
+                      <li><a class="strip-parent-link" href="https://aidiwealth.com" target="_blank" rel="noopener"> Aidi Wealth <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="3" y1="13" x2="13" y2="3"></line><polyline points="6 3 13 3 13 10"></polyline></svg></a></li>
+                      <li><a class="strip-parent-link" href="https://aidihaven.com" target="_blank" rel="noopener"> Aidi Haven <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="3" y1="13" x2="13" y2="3"></line><polyline points="6 3 13 3 13 10"></polyline></svg></a></li>
                       <li><a onclick="navigate('careers')">Careers</a></li>
                       <li><a onclick="navigate('blog')">Blog</a></li>
-                      <li><a onclick="navigate('security')">Security</a></li>
-                      <li><a onclick="navigate('regulatory')">Regulatory</a></li>
                     </ul>
                   </div>
                   <div class="hidden-xs">
@@ -133,6 +134,8 @@
                       <li><a onclick="navigate('privacy')">Privacy Policy</a></li>
                       <li><a onclick="navigate('terms')">Terms of Service</a></li>
                       <li><a onclick="navigate('aml')">AML Policy</a></li>
+                      <li><a onclick="navigate('security')">Security</a></li>
+                      <li><a onclick="navigate('regulatory')">Regulatory</a></li>
                     </ul>
                   </div>
                 </div>

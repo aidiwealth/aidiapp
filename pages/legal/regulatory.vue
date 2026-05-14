@@ -27,16 +27,11 @@
         <li><strong>Alpaca Crypto LLC</strong> — Cryptocurrency trading services. Alpaca Crypto LLC operates in states where permitted under applicable money transmission and digital asset regulations.</li>
         <li><strong>BitGo Trust Company, Inc.</strong> — Institutional digital asset custody. BitGo Trust is a South Dakota-chartered trust company regulated by the South Dakota Division of Banking, providing qualified custodian services for digital assets.</li>
         <li><strong>APMEX / Citadel Global Depository Services</strong> — Physical precious metals custody and vaulting. APMEX is a registered precious metals dealer; Citadel provides insured, audited, segregated vault storage.</li>
-        <li><strong>Column N.A., Member FDIC</strong> — Cash management and USD banking services. Deposits held at Column N.A. are FDIC-insured up to applicable limits.</li>
-        <li><strong>Choice Financial Group, Member FDIC</strong> — Additional banking and cash management services. Deposits are FDIC-insured up to applicable limits.</li>
         <li><strong>Grant Private Wealth Management Inc.</strong> — Registered Investment Advisor (RIA) providing investment advisory services to Aidi clients in the United States.</li>
         </ul>
         <hr class="legal-hr">
         <h2 class="legal-h">FINRA / SIPC Membership</h2>
         <p class="legal-p">Brokerage services for U.S. equities and ETFs are provided by Alpaca Securities LLC, a member of the Financial Industry Regulatory Authority (FINRA) and the Securities Investor Protection Corporation (SIPC). Client brokerage accounts held at Alpaca Securities LLC are protected by SIPC up to $500,000, including $250,000 for cash claims, in the event of broker-dealer failure. SIPC protection does not cover losses from market fluctuations or investment decisions.</p>
-        <hr class="legal-hr">
-        <h2 class="legal-h">FDIC Insurance Disclosure</h2>
-        <p class="legal-p">Cash held in accounts through Column N.A. and Choice Financial Group are insured by the Federal Deposit Insurance Corporation (FDIC) up to the applicable insurance limits per depositor, per institution, per account ownership category. FDIC deposit insurance protects against the failure of an insured depository institution. It does not protect against investment losses, market risks, or the insolvency of non-bank entities.</p>
         <hr class="legal-hr">
         <h2 class="legal-h">AI Guidance Disclosure</h2>
         <p class="legal-p">Elia is Aidi's AI-powered portfolio intelligence partner. Elia provides portfolio analysis, allocation context, risk scenario modelling, and educational financial insights for informational purposes only. Elia does not constitute a registered investment advisor, financial planner, or tax advisor.</p>
@@ -63,7 +58,7 @@
         <p class="legal-p">Users outside the United States access the platform on their own initiative and are solely responsible for compliance with the laws of their local jurisdiction.</p>
         <hr class="legal-hr">
         <h2 class="legal-h">Contact</h2>
-        <p class="legal-p">For regulatory enquiries, compliance questions, or to report a concern:<br><strong>Aidi Ventures Group</strong><br>6203 San Ignacio Avenue, Suite 110<br>San Jose, CA 95119<br><a href="mailto:legal@joinaidi.com"><span class="__cf_email__">legal@joinaidi.com</span></a> &nbsp;&middot;&nbsp; +1 (408) 422-1250</p>
+        <p class="legal-p">For regulatory enquiries, compliance questions, or to report a concern:<br><strong>Aidi Ventures Group</strong><br>3400 Cottage Way, STE G2 #33068, <br>Sacramento, CA 95825 US<br><a href="mailto:legal@joinaidi.com"><span class="__cf_email__">legal@joinaidi.com</span></a> &nbsp;&middot;&nbsp; +1 (408) 422-1250</p>
           </div></div></section>
   
           <section class="cta-section section">

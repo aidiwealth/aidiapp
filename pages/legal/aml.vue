@@ -84,7 +84,7 @@
                     <span class="footer-col-title">Products</span>
                     <ul class="footer-links">
                       <li><a onclick="navigate('prod-stocks')">Stocks &amp; ETFs</a></li>
-                      <li><a onclick="navigate('prod-crypto')">Crypto</a></li>
+                      <li><a onclick="navigate('prod-crypto')">Digital Assets</a></li>
                       <li><a onclick="navigate('prod-gold')">Gold &amp; Metals</a></li>
                       <li><a onclick="navigate('prod-treasury')">Treasury &amp; Cash</a></li>
                       <li><a onclick="navigate('prod-realestate')">Real Estate</a></li>
@@ -127,14 +127,14 @@
                 <div class="footer-disclaimer">
                     <p><strong>Disclaimer:</strong> Aidi is a technology company that provides access to financial tools, insights, and infrastructure. Aidi and its affiliates are not broker-dealers, custodians, or registered investment advisors.</p>
                     <p>Wealth management and advisory services are offered through affiliated entities and in partnership with licensed third parties. In the United States, advisory services are provided by Aidi Ventures LLC and/or Aidi Wealth LLC in partnership with registered investment advisors. In Nigeria, services are delivered through Aidi Technology Limited, subject to applicable local regulations.</p>
-                    <p>Securities brokerage and related services are provided by third-party partners, including Alpaca Securities LLC (member FINRA/SIPC). Cryptocurrency trading services are offered through Alpaca Crypto LLC, while digital asset custody services are provided by regulated custodians such as BitGo Trust entities. Aidi does not custody client assets.</p>
-                    <p>Wallet and cash management services are provided through third-party banking partners, including Choice Financial Group and Column N.A., Members FDIC. FDIC deposit insurance protects against the failure of an insured bank and does not protect against investment losses.</p>
-                    <p>All investments involve risk, including the potential loss of principal. Past performance is not indicative of future results. Cryptocurrency and digital assets are highly speculative and subject to market volatility, regulatory uncertainty, and cybersecurity risks.</p>
+                    <p>Securities brokerage and related services are provided by third-party partners, including Alpaca Securities LLC (member FINRA/SIPC). Digital asset trading services are offered through Alpaca Crypto LLC, while digital asset custody services are provided by regulated custodians such as BitGo Trust entities. Aidi does not custody client assets.</p>
+                    <p>Wallet, cash management, and banking-related services are provided through third-party financial institution partners and infrastructure providers, where applicable. FDIC deposit insurance protects against the failure of an insured depository institution and does not protect against investment losses.</p>
+                     <p>All investments involve risk, including the potential loss of principal. Past performance is not indicative of future results. Digital assets are highly speculative and subject to market volatility, regulatory uncertainty, and cybersecurity risks.</p>
                     <p>Information presented on this platform is for informational purposes only and should not be construed as investment, legal, or tax advice, or as an offer or solicitation in any jurisdiction where such services are not authorized. Availability of products and services may vary by location and applicable regulations.</p>
                     <p>Aidi aggregates data from third-party providers and partners; while we strive for accuracy, we do not guarantee completeness or reliability. Visuals, trademarks, and references are for illustrative purposes only and do not imply endorsement.</p>
                   </div>
                   <div class="footer-bottom">
-                    <div class="footer-copy">Corporate Headquarters: 6203 San Ignacio Ave, Suite 110, San Jose, CA 95119&nbsp;&nbsp;·&nbsp;&nbsp;&#169; 2026 Aidi Ventures Group. All rights reserved.</div>
+                    <div class="footer-copy">Corporate Headquarters: 3400 Cottage Way, STE G2 #33068, Sacramento, CA 95825 US&nbsp;&nbsp;·&nbsp;&nbsp;&#169; 2026 Aidi. All rights reserved.</div>
                   </div>
               </div>
             </div>

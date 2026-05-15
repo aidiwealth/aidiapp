@@ -42,7 +42,7 @@
                     </div>
                     <div>
                       <div style="font-family:'Cormorant Garamond',serif; font-size:2.2rem; font-weight:400; color:var(--ink); line-height:1">$19M+</div>
-                      <div style="font-size:.75rem; color:var(--ink-muted); margin-top:2px; font-weight:300">In Asset Under Mgt.</div>
+                      <div style="font-size:.75rem; color:var(--ink-muted); margin-top:2px; font-weight:300">in Assets (incl. founder capital)</div>
                     </div>
                     <div>
                       <div style="font-family:'Cormorant Garamond',serif; font-size:2.2rem; font-weight:400; color:var(--ink); line-height:1">Global</div>

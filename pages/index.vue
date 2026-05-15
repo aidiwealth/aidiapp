@@ -439,7 +439,7 @@
               <!-- Feature 3: Private Markets -->
               <div class="features-grid reveal reveal-d1" style="margin-top:64px">
                 <div class="feature-visual">
-                  <div class="feature-visual-inner fv-private"><video class="hc-vid" autoplay muted loop playsinline><source src="https://aidiventures.com/asset/v2/images/video/aidi-n2.mp4" type="video/mp4"></video><div class="hc-vid-overlay fv-private-tint"></div></div>
+                  <div class="feature-visual-inner fv-private"><video class="hc-vid" autoplay muted loop playsinline><source src="https://pub-f138f42d66b748108ebf7432c7314665.r2.dev/aidi-n2.mp4" type="video/mp4"></video><div class="hc-vid-overlay fv-private-tint"></div></div>
                   <div class="feature-visual-card">
                     <div class="fvc-label">Portfolio Access</div>
                     <div class="fvc-value">Seed → B</div>

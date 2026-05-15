@@ -126,10 +126,10 @@
                 <h2 class="t-display reveal reveal-d1">We work with certified advisors.</h2>
                 <p class="t-subhead reveal reveal-d2" style="max-width:540px;margin-bottom:56px">Our clients benefit from a network of regulated, licensed advisors — ensuring every recommendation is backed by qualified professionals.</p>
                 <div class="adv-grid reveal reveal-d1">
-                  <div class="adv-card">
+                  <div class="adv-card" style="padding: 49px !important;">
                     <div class="adv-img-wrap"><img src="https://pub-f138f42d66b748108ebf7432c7314665.r2.dev/grant%20(1).png" alt="Grant Private Wealth" class="adv-img" loading="lazy"></div>
                   </div>
-                  <div class="adv-card">
+                  <div class="adv-card" style="padding: 49px !important;">
                     <div class="adv-img-wrap"><img src="https://pub-f138f42d66b748108ebf7432c7314665.r2.dev/bookm%20(1).png" alt="Bookmarks" class="adv-img" loading="lazy"></div>
                   </div>
                 </div>

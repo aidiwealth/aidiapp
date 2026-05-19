@@ -282,12 +282,6 @@
                   <div class="elia-eyebrow reveal"><span class="elia-eyebrow-dot"></span>Powered by AI</div>
                   <h2 class="elia-title reveal reveal-d1">Meet <em>Elia,</em>your AI investment partner.</h2>
                   <p class="elia-desc reveal reveal-d2">Elia analyses your entire financial picture across every asset class — surfacing insights, scenario comparisons, and context to help you stay informed and make better decisions.</p>
-                  <div class="elia-features reveal reveal-d2 hidden-xs">
-                    <div class="elia-feat">
-                      <div class="elia-feat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96-.46 2.5 2.5 0 0 1-1.96-3 2.5 2.5 0 0 1-1.32-4.24 3 3 0 0 1 .34-5.58 2.5 2.5 0 0 1 1.32-4.24A2.5 2.5 0 0 1 9.5 2"/><path d="M14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96-.46 2.5 2.5 0 0 0 1.96-3 2.5 2.5 0 0 0 1.32-4.24 3 3 0 0 0-.34-5.58 2.5 2.5 0 0 0-1.32-4.24A2.5 2.5 0 0 0 14.5 2"/></svg></div>
-                      <div><div class="elia-feat-title">Portfolio Intelligence</div><div class="elia-feat-desc">Real-time analysis of your allocation, risk, and performance across every asset class. Elia is clear, contextual, and educational.</div></div>
-                    </div>
-                  </div>
                   <div style="margin-top:36px" class="reveal reveal-d3">
                     <button class="btn btn-white btn-lg" onclick="navigate('prod-ai')">Explore Elia →</button>
                   </div>

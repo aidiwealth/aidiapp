@@ -424,8 +424,8 @@
                 </div>
                 <div class="features-copy">
                   <span class="eyebrow">U.S. Real Estate</span>
-                  <h3 class="t-headline">Own a piece of American real estate.</h3>
-                  <p class="t-subhead">Invest in income-generating U.S. Airbnb and managed rental properties through fractional SPV structures — no landlord headaches, no U.S. residency required.</p>
+                  <h3 class="t-headline">Own managed U.S. rentals remotely from anywhere.</h3>
+                  <p class="t-subhead">Access professionally managed U.S. Airbnb and rental operations through structured ownership — without handling guests, pricing, or day-to-day property management.</p>
                   <div style="margin-top:32px"><button class="btn btn-dark" onclick="navigate('prod-realestate')">Learn more →</button></div>
                 </div>
               </div>

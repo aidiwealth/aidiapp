@@ -28,7 +28,7 @@
                   <p class="dyn-body" style="color:rgba(255,255,255,.6)">Currency instability erodes local wealth. Aidi helps families hold assets in USD — T-Bills, gold, and U.S. real estate — so devaluation no longer destroys what you've built.</p>
                   <div class="dyn-feats">
                     <div class="dyn-feat"><div class="dyn-feat-icon" style="background:rgba(200,150,46,.15);color:#C8962E"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div><div class="dyn-feat-text"><div class="dyn-feat-title" style="color:white">Gold as a currency shield</div><div class="dyn-feat-desc" style="color:rgba(255,255,255,.5)">Physical allocated gold is currency-agnostic. It holds value regardless of naira, cedi, or shilling devaluation.</div></div></div>
-                    <div class="dyn-feat"><div class="dyn-feat-icon" style="background:rgba(34,197,94,.15);color:#22c55e"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></div><div class="dyn-feat-text"><div class="dyn-feat-title" style="color:white">U.S. real estate income</div><div class="dyn-feat-desc" style="color:rgba(255,255,255,.5)">Earn USD passive income from U.S. rental properties via SPV structures — no U.S. bank account or residency needed.</div></div></div>
+                    <div class="dyn-feat"><div class="dyn-feat-icon" style="background:rgba(34,197,94,.15);color:#22c55e"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></div><div class="dyn-feat-text"><div class="dyn-feat-title" style="color:white">U.S. real estate income</div><div class="dyn-feat-desc" style="color:rgba(255,255,255,.5)">Access income-focused U.S. rental businesses through structured ownership — no U.S. residency or day-to-day property management required.</div></div></div>
                   </div>
                 </div>
               </div>
@@ -53,7 +53,7 @@
                     <span>Can families outside the U.S. invest in U.S. real estate through Aidi?</span>
                     <svg class="sfaq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
                   </div>
-                  <div class="sfaq-a"><p>Yes. Our fractional SPV structures allow non-U.S. residents to own income-generating U.S. properties without requiring U.S. residency, a U.S. bank account, or property management responsibilities.</p></div>
+                  <div class="sfaq-a"><p>Yes. Qualified international clients may participate in professionally managed U.S. rental operations through structured ownership models without requiring U.S. residency or direct property management responsibilities.</p></div>
                 </div>
                 <div class="sfaq-item" onclick="toggleSfaq(this)">
                   <div class="sfaq-q">
@@ -67,7 +67,7 @@
                     <span>What is the minimum investment for real estate?</span>
                     <svg class="sfaq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
                   </div>
-                  <div class="sfaq-a"><p>You can start with as little as $1,000 for fractional real estate ownership through our SPV structures. You'll earn proportional rental income and benefit from any appreciation.</p></div>
+                  <div class="sfaq-a"><p>Participation requirements vary by property type and rental structure. Clients can participate in selected managed U.S. rental operations through structured ownership models with operational reporting and management provided by Aidi Haven.</p></div>
                 </div>
                 <div class="sfaq-item" onclick="toggleSfaq(this)">
                   <div class="sfaq-q">

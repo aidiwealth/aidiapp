@@ -255,7 +255,7 @@
                   <div class="asset-pill-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
                   <span class="asset-pill-tag">Income</span>
                   <div class="asset-pill-name">Real Estate</div>
-                  <div class="asset-pill-desc">Fractional U.S. Airbnb and managed rental properties. Earn yield on U.S. real estate without being a landlord.</div>
+                  <div class="asset-pill-desc">Managed U.S. rental businesses operated by Aidi Haven with full hospitality management and reporting.</div>
                 </div>
                 <div class="asset-pill">
                   <div class="asset-pill-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg></div>
